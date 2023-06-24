@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Bank Mortgage Calculator         |  Software for calculating monthly loan payment            | https://github.com/reginacrabbe/Bank-Mortgage-Calculator.git       |
+| 2 |  Ceasar Cipher Encryption            |  Program to encrypt message using the shift key             | https://github.com/reginacrabbe/-Caesar-Cipher-Encryption.git      |
+| 3 |  Ceasar Cipher Decryption            |  Program to decrypt message using the shift            | https://github.com/reginacrabbe/Caesar-Cipher-Decryption.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
